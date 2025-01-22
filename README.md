@@ -23,7 +23,7 @@ Este es un proyecto de comercio electrónico desarrollado con React y Vite, una 
 
 ## Github 
 
-https://github.com/SerafinZanoni/REACTjs49945
+https://github.com/SerafinZanoni/REACT-Store
 
 ## Instalación y Configuración
 
